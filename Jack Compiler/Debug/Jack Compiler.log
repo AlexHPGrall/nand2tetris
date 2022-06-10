@@ -1,0 +1,8 @@
+﻿  Jack Compiler.cpp
+D:\ProgrammingProjects\C++\Jack Compiler\Jack Compiler.cpp(914,31): warning C4018: '<': signed/unsigned mismatch
+D:\ProgrammingProjects\C++\Jack Compiler\Jack Compiler.cpp(1075,27): warning C4018: '<': signed/unsigned mismatch
+D:\ProgrammingProjects\C++\Jack Compiler\Jack Compiler.cpp(92): warning C4715: 'symKindToSeg': not all control paths return a value
+D:\ProgrammingProjects\C++\Jack Compiler\Jack Compiler.cpp(109): warning C4715: 'getComFromOp': not all control paths return a value
+D:\ProgrammingProjects\C++\Jack Compiler\Jack Compiler.cpp(1065): warning C4715: 'tokenizer::TokenType': not all control paths return a value
+D:\ProgrammingProjects\C++\Jack Compiler\Jack Compiler.cpp(236): warning C4715: 'symbolTable::getIndex': not all control paths return a value
+  Jack Compiler.vcxproj -> D:\ProgrammingProjects\C++\Jack Compiler\Debug\Jack Compiler.exe

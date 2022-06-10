@@ -1,0 +1,4 @@
+D:\Programming projects\C++\HackAssembler\Debug\HackAssembler.exe
+D:\Programming projects\C++\HackAssembler\Debug\HackAssembler.pdb
+D:\ProgrammingProjects\C++\HackAssembler\Debug\HackAssembler.exe
+D:\ProgrammingProjects\C++\HackAssembler\Debug\HackAssembler.pdb

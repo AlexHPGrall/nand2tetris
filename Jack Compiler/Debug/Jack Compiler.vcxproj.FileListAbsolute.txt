@@ -1,0 +1,2 @@
+D:\ProgrammingProjects\C++\Jack Compiler\Debug\Jack Compiler.exe
+D:\ProgrammingProjects\C++\Jack Compiler\Debug\Jack Compiler.pdb

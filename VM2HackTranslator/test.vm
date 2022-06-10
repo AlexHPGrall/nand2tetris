@@ -1,0 +1,11 @@
+push constant 3
+push constant 4
+call sept 2
+label END
+goto END
+
+function sept 0
+push argument 0
+push argument 1
+add
+return

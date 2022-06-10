@@ -1,0 +1,6 @@
+﻿  HackAssembler.cpp
+D:\ProgrammingProjects\C++\HackAssembler\HackAssembler.cpp(103,17): warning C4101: 'found': unreferenced local variable
+D:\ProgrammingProjects\C++\HackAssembler\HackAssembler.cpp(289,17): warning C4101: 'found': unreferenced local variable
+D:\ProgrammingProjects\C++\HackAssembler\HackAssembler.cpp(291,10): warning C4101: 'check': unreferenced local variable
+D:\ProgrammingProjects\C++\HackAssembler\HackAssembler.cpp(292,10): warning C4101: 'instruction': unreferenced local variable
+  HackAssembler.vcxproj -> D:\ProgrammingProjects\C++\HackAssembler\Debug\HackAssembler.exe
